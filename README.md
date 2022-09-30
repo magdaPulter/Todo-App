@@ -13,5 +13,5 @@ This is my solution to the Todo App challenge on Frontend Mentor (https://www.fr
 - Toggle light and dark mode
 
 ## My process
-In my soltion I have used Object Oriented Programming and ES6 classes to duplicate the behavior of the new todos added to the app by user.
+In my solution I have used Object Oriented Programming and ES6 classes to duplicate the behavior of the new todos added to the app by user.
 I am still working on improvment how to drag and drop to reorder items on the list.
